@@ -1,40 +1,20 @@
 ---
 title: LASERFACE
-# main_image: 655993.jpg
-images: [655993.jpg, OWI_1.jpg, friender-bender.jpg, aleksandra-boguslawska-1510.jpg]
-ext_url: "https://google.com"
-featured: false
+# main_image: https://img.itch.zone/aW1hZ2UvNTI5MDgvNDU2NDIzLmdpZg==/original/eji1Y4.gif
+images: [https://img.itch.zone/aW1hZ2UvNTI5MDgvNDU2NDIzLmdpZg==/original/eji1Y4.gif]
+ext_url: "https://nathanwentworth.itch.io/laserface"
+featured: true
 ---
-Blow up a city with your face lasers! VR game made for class, Oculus DK2 required.
+Blow up the city and cause destruction with the LASER on your FACE.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor [incididunt ut labore et dolore magna aliqua](#!). Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+Your LASERFACE.
 
-# header 1
+Oculus DK2 required.
 
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Greg Westland - Code and level design
 
-## header 2
+Nathan Wentworth - UI, supplimental code, art direction
 
-- ipsum dolor sit amet, consectetur adipisicing elit
-- tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-- asdf
-  - tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    - tempor incididunt ut labore et 
+Tyler White - Art
 
-### header 3
 
-Lorem ipsum *dolor sit amet*, consectetur adipisicing elit, sed do eiusmod
-tempor _incididunt ut labore et dolore magna_ aliqua. Ut enim ad minim veniam,
-quis nostrud **exercitation ullamco laboris** nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

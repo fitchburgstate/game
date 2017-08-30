@@ -7,43 +7,30 @@ authors:
   "Nathan Wentworth": "https://nathanwentworth.co"
   "Ethan Thibault": "http://ethanthibault.xyz"
   "Connor Botts": "http://connors.games"
-  "Fake Person": ""
+  "Delton Hulbert": "http://deltonhulbert.com"
+  "Adam Chop": "http://adamchop.co.nf"
+  "Dakota Lyons": "https://twitter.com/DakotaDal"
+  "Joey Canney": ""
+  "Delton
 ext_links:
   "itch.io": "https://itch.io"
   "steam": "https://store.steampowered.com"
   "humble": "https://humblebundle.com"
 main_image: friender-bender.jpg
-header_video: '<iframe width="560" height="315" src="https://www.youtube.com/embed/aF3lF6Yo-gs" frameborder="0" allowfullscreen></iframe>'
-images: [655993.jpg, OWI_1.jpg]
-videos: ['<iframe width="560" height="315" src="https://www.youtube.com/embed/aF3lF6Yo-gs" frameborder="0" allowfullscreen></iframe>', '<iframe width="560" height="315" src="https://www.youtube.com/embed/aF3lF6Yo-gs" frameborder="0" allowfullscreen></iframe>']
+header_video: '<iframe width="560" height="315" src="https://www.youtube.com/watch?v=jDe8boH80dE" frameborder="0" allowfullscreen></iframe>'
+images: [friender-bender.jpg]
 ---
-A local-multiplayer sabotage driving game. Based on Sabotage Rally from Cool Games Inc. Featured in [PC Gamer](http://www.pcgamer.com/free-games-of-the-week/), [Free Game Planet](https://www.freegameplanet.com/friender-bender-download-game/).
+A local-multiplayer sabotage driving game. Up to 4 players take turns controlling 1 car, avoiding obstacles and navigating 2 increasingly crazy courses. If the player crashes while driving, they lose a life. If they lose all of their lives, they're eliminated. The last player left driving is the winner!
 
-# how we did it
+Every player has randomized powerups, weapons, and distractions that they can use at any point to sabotage the driver, such as dropping objects onto the track, inverting steering, glitching out the screen, and more!
 
-![cool](/assets/img/games/friender-bender.jpg)
+Based on Sabotage Rally from Cool Games Inc. Featured in [PC Gamer](http://www.pcgamer.com/free-games-of-the-week/), [Free Game Planet](https://www.freegameplanet.com/friender-bender-download-game/).
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <iframe frameborder="0" src="https://itch.io/embed/97545?linkback=true" width="552" height="167"></iframe>
 
-![cool](/assets/img/games/friender-bender.jpg)
 
-## header 2, here's a longer title
+Featured Music by <a href="https://soundcloud.com/arrowheadedm" target="_blank" rel="nofollow noopener">Arrowhead</a>, <a href="https://roughcuts.bandcamp.com/" target="_blank" rel="nofollow noopener">Rough Cuts</a>, <a href="https://jamesburke.bandcamp.com/" target="_blank" rel="nofollow noopener">James Burke</a>, and <a href="https://soundcloud.com/nathanwentworth/sets/friender-bender" target="_blank" rel="nofollow noopener">Trekkie Trax</a><br>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Concept by <a href="https://twitter.com/SeshohoCian" rel="nofollow noopener">@SeshohoCian</a>, <a href="https://twitter.com/babylonian" rel="nofollow noopener">Nick Robinson</a>, <a href="https://twitter.com/griffinmcelroy" rel="nofollow noopener">Griffin McElroy</a>
 
-![cool](/assets/img/games/friender-bender.jpg)
-
-
-![cool](/assets/img/games/friender-bender.jpg)
