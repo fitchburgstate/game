@@ -11,10 +11,7 @@ authors:
   "Adam Chop": "http://adamchop.co.nf"
   "Dakota Lyons": "https://twitter.com/DakotaDal"
   "Joey Canney": ""
-ext_links:
-  "itch.io": "https://itch.io"
-  "steam": "https://store.steampowered.com"
-  "humble": "https://humblebundle.com"
+ext_url: "https://wickedly.itch.io/friender-bender"
 main_image: friender-bender.jpg
 header_video: '<iframe width="560" height="315" src="https://www.youtube.com/watch?v=jDe8boH80dE" frameborder="0" allowfullscreen></iframe>'
 images: [friender-bender.jpg]
@@ -29,7 +26,7 @@ Based on Sabotage Rally from Cool Games Inc. Featured in [PC Gamer](http://www.p
 <iframe frameborder="0" src="https://itch.io/embed/97545?linkback=true" width="552" height="167"></iframe>
 
 
-Featured Music by <a href="https://soundcloud.com/arrowheadedm" target="_blank" rel="nofollow noopener">Arrowhead</a>, <a href="https://roughcuts.bandcamp.com/" target="_blank" rel="nofollow noopener">Rough Cuts</a>, <a href="https://jamesburke.bandcamp.com/" target="_blank" rel="nofollow noopener">James Burke</a>, and <a href="https://soundcloud.com/nathanwentworth/sets/friender-bender" target="_blank" rel="nofollow noopener">Trekkie Trax</a><br>
+Featured Music by [Arrowhead](https://soundcloud.com/arrowheadedm), [Rough Cuts](https://roughcuts.bandcamp.com), [James Burke](https://jamesburke.bandcamp.com), and [Trekkie Trax](https://soundcloud.com/nathanwentworth/sets/friender-bender)
 
-Concept by <a href="https://twitter.com/SeshohoCian" rel="nofollow noopener">@SeshohoCian</a>, <a href="https://twitter.com/babylonian" rel="nofollow noopener">Nick Robinson</a>, <a href="https://twitter.com/griffinmcelroy" rel="nofollow noopener">Griffin McElroy</a>
+Concept by [@SeshohoCian](https://twitter.com/SeshohoCian), [Nick Robinson](https://twitter.com/babylonian), [Griffin McElroy](https://twitter.com/griffinmcelroy)
 
