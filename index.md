@@ -3,7 +3,7 @@ layout: gallery
 title: "Game Design"
 fulltitle: "Fitchburg State University: Game Design"
 read_more: '#!'
-excerpt: Here's where a nice short description of this page will go!
+excerpt: The Major in Game Design
 col: games
 displayfeatured: true
 ---
