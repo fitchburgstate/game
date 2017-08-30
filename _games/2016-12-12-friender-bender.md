@@ -11,7 +11,6 @@ authors:
   "Adam Chop": "http://adamchop.co.nf"
   "Dakota Lyons": "https://twitter.com/DakotaDal"
   "Joey Canney": ""
-  "Delton
 ext_links:
   "itch.io": "https://itch.io"
   "steam": "https://store.steampowered.com"

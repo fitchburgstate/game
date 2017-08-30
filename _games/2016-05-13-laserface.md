@@ -1,7 +1,7 @@
 ---
 title: LASERFACE
-# main_image: https://img.itch.zone/aW1hZ2UvNTI5MDgvNDU2NDIzLmdpZg==/original/eji1Y4.gif
-images: [https://img.itch.zone/aW1hZ2UvNTI5MDgvNDU2NDIzLmdpZg==/original/eji1Y4.gif]
+main_image: laserface.gif
+images: [laserface.gif]
 ext_url: "https://nathanwentworth.itch.io/laserface"
 featured: true
 ---
@@ -12,9 +12,7 @@ Your LASERFACE.
 Oculus DK2 required.
 
 Greg Westland - Code and level design
-
-Nathan Wentworth - UI, supplimental code, art direction
-
+Nathan Wentworth - UI, supplemental code, art direction
 Tyler White - Art
 
 
