@@ -4,6 +4,7 @@
 # TEAM
 
     <Nathan Wentworth> -- <Developer> -- <nathanwentworth>
+    <Jeff Warmouth> -- <Maintainer> -- <jeffutv>
 
 # THANKS
 

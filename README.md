@@ -1,4 +1,4 @@
-# Fitchburg State Game Design and Communications Media showcase
+# Fitchburg State Game Design showcase
 
 Here's a quick tutorial on how to modify and maintain this site. 
 
@@ -6,13 +6,13 @@ Here's a quick tutorial on how to modify and maintain this site.
 
 ### via Github.com
 
-Simply go to [the repo on Github](https://github.com/nathanwentworth/fitchburg) and edit the files in the `_games`, `_events`, or `_drafts` folders. When you save and commit these files the site will automatically rebuild.
+Simply go to [the repo on Github](https://github.com/fitchburgstate/game) and edit the files in the `_games`, `_events`, or `_drafts` folders. When you save and commit these files the site will automatically rebuild.
 
-(**Note:** this requires having editing privileges on the repo. Ideally this will be uploaded to a school-owned account.)
+(**Note:** this requires having editing privileges on the repo.)
 
 ### Locally
 
-If you want to edit this project locally, then clone the repo into whatever folder you want on your computer `git clone https://github.com/nathanwentworth/fitchburg.git`. Jekyll also needs to be installed `gem install jekyll` for this to build. Once you make your local changes, run `jekyll build` and push changes to Github. 
+If you want to edit this project locally, then clone the repo into whatever folder you want on your computer `git clone https://github.com/fitchburgstate/game.git`. Jekyll also needs to be installed `gem install jekyll` for this to build. Once you make your local changes, run `jekyll build` and push changes to Github. 
 
 ## Making a New Site Entry
 

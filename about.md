@@ -3,9 +3,5 @@ layout: about
 title: "About Fitchburg State Game Design"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Major in Game Design – the first of its kind in a public institution in the Northeast – seeks to make the methods and tools of game design and development accessible to everyone. We strive to produce strong game creators with robust skill sets, able to work independently or in productive teams to create powerful, thought-provoking games with solid gameplay mechanics, unified aesthetics, and engaging stories.
+[Game Design Website](http://fitchburgstate.edu/gamedesign)
