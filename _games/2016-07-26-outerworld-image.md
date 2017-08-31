@@ -1,7 +1,6 @@
 ---
 title: Outerworld Image
 main_image: OWI_1.jpg
-exturl: https://wickedly.itch.io/outerworld-image
 featured: true
 ---
 
@@ -13,3 +12,5 @@ Featured in [Rock, Paper, Shotgun](https://www.rockpapershotgun.com/2016/08/13/b
 > "You know, to remind you of the good times when you were inside a weird, pink game world, and not in this overwhelming collapsible reality."
 
 - Rock, Paper, Shotgun 
+
+[Outerworld Image on itch.io](https://wickedly.itch.io/outerworld-image)

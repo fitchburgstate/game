@@ -11,7 +11,6 @@ authors:
   "Adam Chop": "http://adamchop.co.nf"
   "Dakota Lyons": "https://twitter.com/DakotaDal"
   "Joey Canney": ""
-ext_url: "https://wickedly.itch.io/friender-bender"
 main_image: friender-bender.jpg
 header_video: '<iframe width="560" height="315" src="https://www.youtube.com/watch?v=jDe8boH80dE" frameborder="0" allowfullscreen></iframe>'
 images: [friender-bender.jpg]
@@ -21,6 +20,9 @@ A local-multiplayer sabotage driving game. Up to 4 players take turns controllin
 Every player has randomized powerups, weapons, and distractions that they can use at any point to sabotage the driver, such as dropping objects onto the track, inverting steering, glitching out the screen, and more!
 
 Based on Sabotage Rally from Cool Games Inc. Featured in [PC Gamer](http://www.pcgamer.com/free-games-of-the-week/), [Free Game Planet](https://www.freegameplanet.com/friender-bender-download-game/).
+
+
+[Friender Bender on itch.io](https://wickedly.itch.io/friender-bender)
 
 
 <iframe frameborder="0" src="https://itch.io/embed/97545?linkback=true" width="552" height="167"></iframe>
