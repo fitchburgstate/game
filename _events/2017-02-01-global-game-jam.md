@@ -3,7 +3,7 @@ title: "Global Game Jam"
 layout: half-width
 no-release: true
 
-main_image: globalgamejam.jpg
+main_image: globalgamejam.png
 # images: []
 # images, optional
 # these are shown down the right sidebar on project pages, and in the hover gallery on the main page
