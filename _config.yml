@@ -1,7 +1,7 @@
 # Site settings
 title: "Fitchburg State University: Game Design"
 tagline: "A showcase of Game Design work from the students of Fitchburg State University"
-url: "http://yourwebsite.com" # The base hostname & protocol for your site. Use it if you need absolute URLs
+url: "https://fitchburgstate.github.io/game/" # The base hostname & protocol for your site. Use it if you need absolute URLs
 subdirectory: "" # this is placed before all relative urls, in case you want it to be on a subdirectory
 permalink: /:title/
 
