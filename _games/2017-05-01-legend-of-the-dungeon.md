@@ -34,6 +34,8 @@ authors:
 # this shows a list of the people that worked on the game. each name is a link that leads to somewhere else. if they don't have a url to link to, just enter blank double quotes (like the last entry in the above example)
 
 
+featured: true
+
 ---
 An adventure game with 8 fully explorable dungeons and bosses.
 
