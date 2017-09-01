@@ -20,7 +20,9 @@ layout: default
       <h1 class="title title-page">{{ page.title }}</h1>
       {{ page.content }}
       <ul class="data">
+        {% unless page.no_release %}
         <li><b>Release Date:</b> {{ page.date | date: "%Y" }}</li>
+        {% endunless %}
         {% if page.platforms %}
         <li><b>Platforms:</b> {{ page.platforms | join: ', ' }}</li>
         {% endif %}
