@@ -7,6 +7,7 @@ main_image: LoD.png
 # main_image, *required*
 # this is shown on the main page, and project pages if header_video is not set
 
+
 # header_video: '<iframe width="560" height="315" src="https://www.youtube.com/embed/aF3lF6Yo-gs" frameborder="0" allowfullscreen></iframe>'
 # header_video, optional
 # this overrides main_image on project pages, will show a video in the header
