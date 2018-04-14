@@ -8,8 +8,8 @@ Blow up the city and cause destruction with the LASER on your FACE. Your LASERFA
 
 Oculus DK2 required.
 
-* Greg Westland - Code and level design
 * Nathan Wentworth - UI, supplemental code, art direction
+* Greg Westland - Code and level design
 * Tyler White - Art
 
 [Laserface on itch.io](https://nathanwentworth.itch.io/laserface)
