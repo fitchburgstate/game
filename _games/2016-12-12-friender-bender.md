@@ -12,7 +12,7 @@ authors:
   "Dakota Lyons": "https://twitter.com/DakotaDal"
   "Joey Canney": ""
 main_image: friender-bender.jpg
-header_video: '<iframe width="560" height="315" src="https://www.youtube.com/watch?v=jDe8boH80dE" frameborder="0" allowfullscreen></iframe>'
+header_video: 'https://www.youtube.com/watch?v=jDe8boH80dE'
 images: [friender-bender.jpg]
 ---
 A local-multiplayer sabotage driving game. Up to 4 players take turns controlling 1 car, avoiding obstacles and navigating 2 increasingly crazy courses. If the player crashes while driving, they lose a life. If they lose all of their lives, they're eliminated. The last player left driving is the winner!
