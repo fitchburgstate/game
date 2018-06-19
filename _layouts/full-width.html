@@ -5,10 +5,16 @@ layout: default
 <main class="wrapper">
 
 
-  <img src="{{ site.github.url }}/assets/img/{{ page.collection }}/{{ page.main_image }}">
+  {% if page.header_video %}
+    <div class="header-video video">
+      {{ page.header_video }}
+    </div>
+  {% else %}
+    <img src="{{ site.github.url }}/assets/img/{{ page.collection }}/{{ page.main_image }}">
+  {% endif %}
 
   <div class="card">
-    <h1 class="title title-page title-inset">{{ page.title }}</h1>
+    <h1 class="title title-page title-inset {% if page.header_video %}title-lower{% endif %}">{{ page.title }}</h1>
     <div class="event-content">
       {{ content }}
     </div>

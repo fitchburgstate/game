@@ -85,6 +85,10 @@ blockquote {
   padding-top: 25px;
   height: 0;
 
+  &.header-video {
+    padding-top: 0;
+  }
+
   iframe {
     position: absolute;
     top: 0;
@@ -93,7 +97,6 @@ blockquote {
     height: 100%;
   }
 }
-
 
 
 /* # extras */

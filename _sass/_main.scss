@@ -298,6 +298,9 @@ footer a:hover, footer a:active { color: #D4D4D4; border-bottom: none; }
       width: calc(100% - #{$spacing-unit});
     }
   }
+  &.title-lower {
+    top: 0;
+  }
 }
 
 
